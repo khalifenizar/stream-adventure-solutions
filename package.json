@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/khalifenizar/stream-adventure-solutions/issues"
   },
+  "dependencies": {
+    "stream-adventure": "^2.5.1"
+  },
   "homepage": "https://github.com/khalifenizar/stream-adventure-solutions",
   "license": "ISC",
   "repository": {
