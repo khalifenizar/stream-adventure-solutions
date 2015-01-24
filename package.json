@@ -14,5 +14,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/khalifenizar/stream-adventure-solutions.git"
+  },
+  "scripts": {
+    "help": "npm start -- help",
+    "print": "npm start -- print",
+    "run": "npm start -- run",
+    "start": "stream-adventure",
+    "verify": "npm start -- verify"
   }
 }
